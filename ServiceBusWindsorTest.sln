@@ -22,13 +22,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A822B767-F0E2-4352-A062-4AC71F9A7365}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs:8080/tfs/onetfs
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ServiceBusWindsorTest\\ServiceBusWindsorTest.csproj
-		SccProjectName1 = ServiceBusWindsorTest
-		SccLocalPath1 = ServiceBusWindsorTest
-	EndGlobalSection
 EndGlobal
